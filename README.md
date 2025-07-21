@@ -25,26 +25,26 @@
 </table>
 
 -----
-## 📊 My GitHub Statistics
 
-<div align="center">
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=visuddika&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=visuddika&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=visuddika&show_icons=true&count_private=true&theme=dark&hide_border=true&border_radius=10" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visuddika&layout=compact&theme=dark&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" />
-    </td>
-  </tr>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=visuddika&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
 </table>
 
-<br/>
 
-<img src="https://streak-stats.demolab.com?user=visuddika&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
-
-</div>
 
 
 ---
