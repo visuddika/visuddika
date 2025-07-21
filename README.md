@@ -27,33 +27,14 @@
 -----
 
 <h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=visuddika&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=visuddika&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=visuddika&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+<!-- GitHub Stats, Streak, Top Languages -->
+| ![visuddik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=visuddika&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://streak-stats.demolab.com/?user=visuddika&theme=tokyonight) |
+| --- | --- |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=visuddika&theme=tokyonight&layout=compact) | ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=visuddika&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-
-
-
----
-
-### 💡 Tips:
-- 🔁 If stats don't show, try again later (GitHub API rate limits).
-- 🌐 Works best when added to your `README.md` in your profile or repo.
-
-
+<!-- Joke Badge (static, since dynamic jokes card is broken) -->
+![Joke](https://img.shields.io/badge/Joke-Why%20do%20programmers%20prefer%20dark%20mode%3F%20Because%20light%20attracts%20bugs.-blueviolet)
 
 ---
 
