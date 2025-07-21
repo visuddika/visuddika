@@ -27,20 +27,31 @@
 -----
 ## 📊 My GitHub Statistics
 
+<div align="center">
+
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=visuddika&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=visuddika&show_icons=true&count_private=true&theme=dark&hide_border=true&border_radius=10" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visuddika&layout=compact&theme=dark&langs_count=10" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visuddika&layout=compact&theme=dark&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=visuddika&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=visuddika&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
+
+</div>
+
+---
+
+### 💡 Tips:
+- 🔁 If stats don't show, try again later (GitHub API rate limits).
+- 🌐 Works best when added to your `README.md` in your profile or repo.
+
 
 
 ---
