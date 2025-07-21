@@ -42,9 +42,10 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=visuddika&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=visuddika&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
 
 </div>
+
 
 ---
 
