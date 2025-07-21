@@ -27,18 +27,21 @@
 -----
 ## 📊 My GitHub Statistics
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="50%">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=visuddika&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
-      <br />
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=visuddika&theme=dark&hide_border=false" alt="GitHub Streak" />
     </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visuddika&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visuddika&layout=compact&theme=dark&langs_count=10" alt="Top Languages" />
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=visuddika&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
 
 ---
 
